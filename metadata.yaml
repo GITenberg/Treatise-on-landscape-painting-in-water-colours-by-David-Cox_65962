@@ -1,0 +1,35 @@
+_repo: Treatise-on-landscape-painting-in-water-colours-by-David-Cox_65962
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Baldrey, A. L.
+    gutenberg_agent_id: '53567'
+    url: http://www.gutenberg.org/2009/agents/53567
+creator:
+  author:
+    agent_name: Cox, David
+    gutenberg_agent_id: '53566'
+    url: http://www.gutenberg.org/2009/agents/53566
+  editor:
+    agent_name: Holme, C. Geoffrey (Charles Geoffrey)
+    aliases:
+    - Holme, Charles Geoffrey
+    - Holme, C. G. (Charles Geoffrey)
+    - Holme, Geoffrey
+    birthdate: 1887
+    deathdate: 1954
+    gutenberg_agent_id: '25298'
+    url: http://www.gutenberg.org/2009/agents/25298
+description: ''
+gutenberg_issued: '2021-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65962'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Treatise on landscape painting in water-colours by David Cox
+url: http://www.gutenberg.org/ebooks/65962
